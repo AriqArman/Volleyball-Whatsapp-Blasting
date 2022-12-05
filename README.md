@@ -6,7 +6,9 @@ Objective: Return an empty list for people to sign up for the next volleyball se
 
          
          1. Input: "Court Booked" {date} {venue} {time}
+         
          2. Process using Python
+         
          3. Output: "Volleyball Session" {date} 
             Venue: {venue} 
             Time: {time} or so
